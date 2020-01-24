@@ -38,7 +38,7 @@
         Correo: <%= cli.getEmail()%> <br>
 
         <% }%> <!-- LLave del else -->
-    <form method="post" action="index.php">
+    <form method="post" action="index.html">
         <button type="submit" name="btnvolver" id="btnvolver">Volver</button>
     </form>        
     </body>
